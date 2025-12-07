@@ -1,4 +1,4 @@
-# 만들면서 배우는 라즈베리파이 5와 40개의 <summary><strong>작품들
+# 만들면서 배우는 라즈베리파이 5와 40개의 작품들
 
 ## 목차
 
@@ -23,7 +23,7 @@
    
 </details>
 
-### Chapter 02 12개의 기초 <summary><strong>작품만들기
+### Chapter 02 12개의 기초 작품만들기
 
 <details>
 <summary><strong>작품 01위험을 알리는 경광등 만들기</strong></summary>
@@ -140,7 +140,7 @@
 
 ---
 
-### Chapter 03 18개의 응용 <summary><strong>작품 만들기</strong></summary>
+### Chapter 03 18개의 응용 <summary><strong>작품 만들기
 
 <details>
 <summary><strong>작품 13사진기 만들기
