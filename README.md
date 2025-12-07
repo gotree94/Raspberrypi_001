@@ -141,7 +141,7 @@
 
 ---
 
-### Chapter 03 18개의 응용 <summary><strong>작품 만들기
+### Chapter 03 18개의 응용 작품 만들기
 
 <details>
 <summary><strong>작품 13사진기 만들기
