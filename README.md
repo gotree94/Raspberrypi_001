@@ -26,7 +26,7 @@
 ### Chapter 02 12개의 기초 작품만들기
 
 <details>
-<summary><strong>작품 01위험을 알리는 경광등 만들기</strong></summary>
+<summary><strong>작품 01.위험을 알리는 경광등 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-<summary><strong>작품 02신호등 만들기</strong></summary>
+<summary><strong>작품 02.신호등 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -46,7 +46,7 @@
 </details>
 
 <details>
-<summary><strong>작품 03경찰차 경광등 만들기</strong></summary>
+<summary><strong>작품 03.경찰차 경광등 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary><strong>작품 04LED 스탠드 만들기</strong></summary>
+<summary><strong>작품 04.LED 스탠드 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -66,7 +66,7 @@
 </details>
 
 <details>
-<summary><strong>작품 05어두워지면 자동으로 켜지는 전등 만들기</strong></summary>
+<summary><strong>작품 05.어두워지면 자동으로 켜지는 전등 만들기</strong></summary>
 
    * 설정하기
    * 준비물
@@ -76,7 +76,7 @@
 </details>
 
 <details>
-<summary><strong>작품 06가스/연기 감지기 만들기</strong></summary>
+<summary><strong>작품 06.가스/연기 감지기 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -85,7 +85,7 @@
 </details>
 
 <details>
-<summary><strong>작품 07피아노 만들기</strong></summary>
+<summary><strong>작품 07.피아노 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -94,7 +94,7 @@
 </details>
 
 <details>
-<summary><strong>작품 08초음파센서를 이용한 피아노 만들기</strong></summary>
+<summary><strong>작품 08.초음파센서를 이용한 피아노 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -103,7 +103,7 @@
 </details>
 
 <details>
-<summary><strong>작품 09가속도자이로센서를 이용한 도난 방지기 만들기</strong></summary>
+<summary><strong>작품 09.가속도자이로센서를 이용한 도난 방지기 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -112,7 +112,7 @@
 </details>
 
 <details>
-<summary><strong>작품 10온습도 센서 불쾌지수 표시기 만들기</strong></summary>
+<summary><strong>작품 10.온습도 센서 불쾌지수 표시기 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -121,7 +121,7 @@
 </details>
 
 <details>
-<summary><strong>작품 11온습도 센서값 파일로 기록하기</strong></summary>
+<summary><strong>작품 11.온습도 센서값 파일로 기록하기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -130,13 +130,14 @@
 </details>
 
 <details>
-<summary><strong>작품 12블루투스LE_스마트 조명제어</strong></summary>
+<summary><strong>작품 12.블루투스LE_스마트 조명제어</strong></summary>
 
    * 준비물
    * 회로 구성
    * 라즈베리파이 코드 작성
    * 아이폰 사용자의 경우
    * 실행결과
+</details>
 
 ---
 
@@ -302,6 +303,7 @@
    * 회로 구성
    * 라즈베리파이 코드 작성
    * 실행결과
+</details>
 
 ---
 
