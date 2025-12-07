@@ -1,5 +1,7 @@
 # 만들면서 배우는 라즈베리파이 5와 40개의 작품들
 
+<img width="297" height="414" alt="017" src="https://github.com/user-attachments/assets/5fd6bf7c-9bba-4191-a5db-66a14e30478f" />
+
 ## 목차
 
 ---
