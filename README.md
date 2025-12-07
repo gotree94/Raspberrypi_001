@@ -5,12 +5,12 @@
 ### Chapter 01 라즈베리파이 개발환경 구성과 사용법 익히기
 
 <details>
-<summary><strong>01.라즈베리파이 개요 및 원격 개발 환경 구성
+<summary><strong>01.라즈베리파이 개요 및 원격 개발 환경 구성</strong></summary>
 라즈베리파이 개요
 </details>
 
 <details>
-<summary><strong>02.라즈베리 파이 개발 환경 구성
+<summary><strong>02.라즈베리 파이 개발 환경 구성</strong></summary>
    * 라즈베리 파이 개발 환경 구성
    * 라즈베리 파이를 연결 방법
    * 원격 데스크탑을 이용한 연결 방법
