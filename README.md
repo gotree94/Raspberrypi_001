@@ -144,7 +144,7 @@
 ### Chapter 03 18개의 응용 작품 만들기
 
 <details>
-<summary><strong>작품 13사진기 만들기</strong></summary>
+<summary><strong>작품 13.사진기 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -153,7 +153,7 @@
 </details>
 
 <details>
-<summary><strong>작품 14인체감지센서를 이용하여 침입자 사진찍기</strong></summary>
+<summary><strong>작품 14.인체감지센서를 이용하여 침입자 사진찍기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -162,7 +162,7 @@
 </details>
 
 <details>
-<summary><strong>작품 15타임랩스 사진찍기</strong></summary>
+<summary><strong>작품 15.타임랩스 사진찍기</strong></summary>
 
    * 준비물
    * 라즈베리파이 코드 작성
@@ -170,7 +170,7 @@
 </details>
 
 <details>
-<summary><strong>작품 16녹음기 만들기</strong></summary>
+<summary><strong>작품 16.녹음기 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -180,7 +180,7 @@
 </details>
 
 <details>
-<summary><strong>작품 17말하는 신호등 만들기</strong></summary>
+<summary><strong>작품 17.말하는 신호등 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -190,7 +190,7 @@
 </details>
 
 <details>
-<summary><strong>작품 18말하는 시계 만들기</strong></summary>
+<summary><strong>작품 18.말하는 시계 만들기</strong></summary>
 
    * 회로 구성
    * 라즈베리파이 코드 작성
@@ -198,7 +198,7 @@
 </details>
 
 <details>
-<summary><strong>작품 19플라스크 웹서버 만들기</strong></summary>
+<summary><strong>작품 19.플라스크 웹서버 만들기</strong></summary>
 
    * 플라스크 설치하기
    * 라즈베리파이 코드 작성
@@ -206,7 +206,7 @@
 </details>
 
 <details>
-<summary><strong>작품 20플라스크 웹서버 LED 제어하기</strong></summary>
+<summary><strong>작품 20.플라스크 웹서버 LED 제어하기</strong></summary>
 
    * 회로 구성
    * 라즈베리파이 코드 작성
@@ -215,7 +215,7 @@
 </details>
 
 <details>
-<summary><strong>작품 21라즈베리파이의 CPU 온도 모니터링 GUI 프로그램 만들기</strong></summary>
+<summary><strong>작품 21.라즈베리파이의 CPU 온도 모니터링 GUI 프로그램 만들기</strong></summary>
 
    * 회로 구성
    * 라즈베리파이 코드 작성
@@ -223,7 +223,7 @@
 </details>
 
 <details>
-<summary><strong>작품 22라즈베리파이의 CPU 온도를 낮추는 FAN 만들기GUI로 CPU 온도 및 팬 속도 표시하기</strong></summary>
+<summary><strong>작품 22.라즈베리파이의 CPU 온도를 낮추는 FAN 만들기GUI로 CPU 온도 및 팬 속도 표시하기</strong></summary>
 
    * 라즈베리파이 케이스와 FAN 조립하기
    * 준비물
@@ -233,7 +233,7 @@
 </details>
 
 <details>
-<summary><strong>작품 23LED, FAN을 제어하는 GUI 프로그램 만들기</strong></summary>
+<summary><strong>작품 23.LED, FAN을 제어하는 GUI 프로그램 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -242,7 +242,7 @@
 </details>
 
 <details>
-<summary><strong>작품 24기상청 날씨 표시기 만들기</strong></summary>
+<summary><strong>작품 24.기상청 날씨 표시기 만들기</strong></summary>
 
    * 시간별 예보 데이터 받기
    * 라즈베리파이 코드 작성
@@ -250,7 +250,7 @@
 </details>
 
 <details>
-<summary><strong>작품 25공공데이터 미세먼지 표시장치 만들기</strong></summary>
+<summary><strong>작품 25.공공데이터 미세먼지 표시장치 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -260,7 +260,7 @@
 </details>
 
 <details>
-<summary><strong>작품 26이메일 보내기</strong></summary>
+<summary><strong>작품 26.이메일 보내기</strong></summary>
 
    * 회로 구성
    * 구글 이메일 설정하기
@@ -269,7 +269,7 @@
 </details>
 
 <details>
-<summary><strong>작품 27텔레그램으로 주식 시세를 알려주는 알리미 만들기</strong></summary>
+<summary><strong>작품 27.텔레그램으로 주식 시세를 알려주는 알리미 만들기</strong></summary>
 
    * 라이브러리 설치
    * 라즈베리파이 코드 작성
@@ -280,7 +280,7 @@
 </details>
 
 <details>
-<summary><strong>작품 28_ 텔레그램으로 일기예보를 알려주는 알리미 만들기</strong></summary>
+<summary><strong>작품 28.텔레그램으로 일기예보를 알려주는 알리미 만들기</strong></summary>
 
    * 회로구성
    * 라이브러리 설치
@@ -289,7 +289,7 @@
 </details>
 
 <details>
-<summary><strong>작품 29MQTT 브로커 만들어 PC와 통신하기</strong></summary>
+<summary><strong>작품 29.MQTT 브로커 만들어 PC와 통신하기</strong></summary>
    
    * mowquitto 브로커 설치하기
    * 라즈베리파이 코드 작성
@@ -297,7 +297,7 @@
 </details>
 
 <details>
-<summary><strong>작품 30MQTT 통신으로 제어하는 장치 만들기</strong></summary>
+<summary><strong>작품 30.MQTT 통신으로 제어하는 장치 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -310,7 +310,7 @@
 ### Chapter 04 10개의 인공지능 작품 만들기
 
 <details>
-<summary><strong>작품 31음성을 인식하여 LED를 제어하는 인공지능 스마트 조명 만들기</strong></summary>
+<summary><strong>작품 31.음성을 인식하여 LED를 제어하는 인공지능 스마트 조명 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -320,7 +320,7 @@
 </details>
 
 <details>
-<summary><strong>작품 32음성을 인식하여 날씨정보 알려주는 인공지능 장치 만들기</strong></summary>
+<summary><strong>작품 32.음성을 인식하여 날씨정보 알려주는 인공지능 장치 만들기</strong></summary>
 
    * 마이크 사용을 위한 라이브러리 설치하기
    * 라즈베리파이 코드 작성
@@ -328,7 +328,7 @@
 </details>
 
 <details>
-<summary><strong>작품 33OpenCV 얼굴인식 장치 만들기</strong></summary>
+<summary><strong>작품 33.OpenCV 얼굴인식 장치 만들기</strong></summary>
 
    * OpenCV를 설치하기
    * 라즈베리파이 코드 작성
@@ -336,7 +336,7 @@
 </details>
 
 <details>
-<summary><strong>작품 34OpenCV 졸음방지 알리미 만들기</strong></summary>
+<summary><strong>작품 34.OpenCV 졸음방지 알리미 만들기</strong></summary>
 
    * 회로 구성
    * 라즈베리파이 코드 작성
@@ -344,7 +344,7 @@
 </details>
 
 <details>
-<summary><strong>작품 35OpenCV 색상검출기 만들기</strong></summary>
+<summary><strong>작품 35.OpenCV 색상검출기 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -353,7 +353,7 @@
 </details>
 
 <details>
-<summary><strong>작품 36OpenCV QR 코드 인식하여 기록하기</strong></summary>
+<summary><strong>작품 36.OpenCV QR 코드 인식하여 기록하기</strong></summary>
 
    * 회로 구성
    * 라즈베리파이 코드 작성
@@ -361,7 +361,7 @@
 </details>
 
 <details>
-<summary><strong>작품 37인공지능 물체검출기 만들기</strong></summary>
+<summary><strong>작품 37.인공지능 물체검출기 만들기</strong></summary>
 
    * 파일 다운로드 받기
    * 라즈베리파이 코드 작성
@@ -369,7 +369,7 @@
 </details>
 
 <details>
-<summary><strong>작품 38인공지능 나이와 성별 인식 프로그램 만들기</strong></summary>
+<summary><strong>작품 38.인공지능 나이와 성별 인식 프로그램 만들기</strong></summary>
 
    * 가중치 파일과 예제 코드 다운받기
    * 라즈베리파이 코드 작성
@@ -377,7 +377,7 @@
 </details>
 
 <details>
-<summary><strong>작품 39Node_RED를 사용한 LED 제어 GUI 프로그램 만들기</strong></summary>
+<summary><strong>작품 39.Node_RED를 사용한 LED 제어 GUI 프로그램 만들기</strong></summary>
 
    * 준비물
    * 회로 구성
@@ -385,7 +385,7 @@
 </details>
 
 <details>
-<summary><strong>작품 40인공지능 분류기 만들기</strong></summary>
+<summary><strong>작품 40.인공지능 분류기 만들기</strong></summary>
 
    * 라이브러리 설치
    * 라즈베리파이 코드 작성
