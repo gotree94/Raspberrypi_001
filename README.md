@@ -6,17 +6,21 @@
 
 <details>
 <summary><strong>01.라즈베리파이 개요 및 원격 개발 환경 구성</strong></summary>
-라즈베리파이 개요
+
+   * 라즈베리파이 개요
+   
 </details>
 
 <details>
 <summary><strong>02.라즈베리 파이 개발 환경 구성</strong></summary>
+
    * 라즈베리 파이 개발 환경 구성
    * 라즈베리 파이를 연결 방법
    * 원격 데스크탑을 이용한 연결 방법
    * VNC를 이용한 연결
    * 모니터와 키보드 사용
    * 파이썬 가상 환경 구성
+   
 </details>
 
 ### Chapter 02 12개의 기초 작품만들기
