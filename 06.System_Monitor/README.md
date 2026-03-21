@@ -70,10 +70,24 @@
 
 ---
 
-## node.js
+* 모니터링 서버 구현
 
+* 실행 방법
+```bash
+# 1. Node.js 설치 (없는 경우)
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+sudo apt install -y nodejs
+
+# 2. 프로젝트 폴더 구성
+mkdir -p ~/pi-monitor/public
+# server.js → ~/pi-monitor/
+# package.json → ~/pi-monitor/
+# index.html → ~/pi-monitor/public/
+
+# 3. 의존성 설치 및 실행
+cd ~/pi-monitor
+npm install
+node server.js
 ```
 
-
-```
-
+<img width="1254" height="1115" alt="126" src="https://github.com/user-attachments/assets/eff722b9-d426-4f94-b941-4f707435b8f0" />
