@@ -55,6 +55,18 @@
 ping -4 rp4-nwkim.local
 ```
 
+```
+Ping rp4-nwk.local [192.168.0.17] 32바이트 데이터 사용:
+192.168.0.17의 응답: 바이트=32 시간=4ms TTL=64
+192.168.0.17의 응답: 바이트=32 시간=4ms TTL=64
+192.168.0.17의 응답: 바이트=32 시간=6ms TTL=64
+192.168.0.17의 응답: 바이트=32 시간=5ms TTL=64
+
+192.168.0.17에 대한 Ping 통계:
+    패킷: 보냄 = 4, 받음 = 4, 손실 = 0 (0% 손실),
+왕복 시간(밀리초):
+    최소 = 4ms, 최대 = 6ms, 평균 = 4ms
+```
 
 * IPV6
 ```
@@ -62,28 +74,16 @@ ping rp4-nwk.local
 ```
 
 ```
-# IPv4로 강제 캐시 등록
-ping -4 rp4-nwkim.local
-
-# 캐시 확인 (PowerShell)
-Get-DnsClientCache | Where-Object { $_.Entry -like "*.local" }
-```
-
-```
-(base) C:\Users\Administrator>ping rp4-nwk.local
-
 Ping rp4-nwk.local [fe80::e65f:1ff:feca:2425%14] 32바이트 데이터 사용:
-fe80::e65f:1ff:feca:2425%14의 응답: 시간=7ms
+fe80::e65f:1ff:feca:2425%14의 응답: 시간=13ms
 fe80::e65f:1ff:feca:2425%14의 응답: 시간=5ms
-fe80::e65f:1ff:feca:2425%14의 응답: 시간=9ms
-fe80::e65f:1ff:feca:2425%14의 응답: 시간=5ms
+fe80::e65f:1ff:feca:2425%14의 응답: 시간=8ms
+fe80::e65f:1ff:feca:2425%14의 응답: 시간=6ms
 
 fe80::e65f:1ff:feca:2425%14에 대한 Ping 통계:
     패킷: 보냄 = 4, 받음 = 4, 손실 = 0 (0% 손실),
 왕복 시간(밀리초):
-    최소 = 5ms, 최대 = 9ms, 평균 = 6ms
-
-(base) C:\Users\Administrator>
+    최소 = 5ms, 최대 = 13ms, 평균 = 8ms
 ```
 
 ### 1.4 MobaXterm
