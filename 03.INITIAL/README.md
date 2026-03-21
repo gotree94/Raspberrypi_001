@@ -49,6 +49,14 @@
 
 ### 1.3 Raspberry Pi IP 확인
 
+* IPV4
+
+```cmd
+ping -4 rp4-nwkim.local
+```
+
+
+* IPV6
 ```
 ping rp4-nwk.local
 ```
@@ -77,13 +85,6 @@ fe80::e65f:1ff:feca:2425%14에 대한 Ping 통계:
 
 (base) C:\Users\Administrator>
 ```
-
-```
-python ip_scanner3.py
-```
-
-
-<img width="993" height="851" alt="086" src="https://github.com/user-attachments/assets/ee8c50be-2384-43ee-b16c-48bf48f731ae" />
 
 ### 1.4 MobaXterm
 
@@ -171,6 +172,15 @@ Get-DnsClientCache | Where-Object { $_.Entry -like "*.local" }
 ```cmd
 ping -4 rp4-nwkim.local
 ```
+
+
+```
+python ip_scanner3.py
+```
+
+
+<img width="993" height="851" alt="086" src="https://github.com/user-attachments/assets/ee8c50be-2384-43ee-b16c-48bf48f731ae" />
+
 
 
 
