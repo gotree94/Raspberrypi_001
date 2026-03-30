@@ -173,11 +173,61 @@ Get-DnsClientCache | Where-Object { $_.Entry -like "*.local" }
 ping -4 rp4-nwkim.local
 ```
 
-
 ```
 python ip_scanner3.py
 ```
 
+
+## 문제2 : 터미널에서 wifi 설정
+
+### WIFI ON
+   * 아래 코드를 이용하여 wifi를 켤 수 있음
+
+```
+sudo nmcli radio wifi on
+```
+
+### WIFI 리스트 검색
+   * 아래 코드를 이용하여 wifi 리스트를 볼 수 있음
+   * 이 중에서 가장 강도가 높은 와이파이를 검색하면 됨
+
+```
+sudo nmcli device wifi list
+```
+ 
+```
+admin@rp4-nwk2:~$ sudo nmcli device wifi list
+IN-USE  BSSID              SSID                             MODE   CHAN  RATE        SIGNAL  BARS  SECURITY
+        B0:38:6C:46:6A:32  unreal                           Infra  6     130 Mbit/s  100     ▂▄▆█  WPA2
+        B0:38:6C:46:6A:30  unreal5G                         Infra  149   270 Mbit/s  100     ▂▄▆█  WPA2
+        58:86:94:84:4A:7C  임베디드실-5G                    Infra  149   270 Mbit/s  92      ▂▄▆█  WPA2
+        0A:09:B4:82:84:63  KT_Free_WiFi                     Infra  1     260 Mbit/s  74      ▂▄▆_  --
+        00:09:B4:82:84:63  KT WiFi                          Infra  1     260 Mbit/s  72      ▂▄▆_  WPA2 802.1X
+        0E:09:B4:82:84:63  Public WiFi Secure               Infra  1     260 Mbit/s  72      ▂▄▆_  WPA2 802.1X
+        12:09:B4:82:84:63  Public WiFi Free                 Infra  1     260 Mbit/s  72      ▂▄▆_  --
+        06:09:B4:82:84:63  KT WiFi                          Infra  1     260 Mbit/s  70      ▂▄▆_  --
+        72:5D:CC:C3:4C:CC  그룹토의실-2.4G                  Infra  3     270 Mbit/s  69      ▂▄▆_  WPA2
+        0E:09:B4:82:84:64  KT GiGA WiFi                     Infra  60    260 Mbit/s  50      ▂▄__  --
+        12:09:B4:82:84:64  KT_Free_WiFi                     Infra  60    260 Mbit/s  50      ▂▄__  --
+        1A:09:B4:82:84:64  Public WiFi Free                 Infra  60    260 Mbit/s  50      ▂▄__  --
+        00:09:B4:82:84:64  KT WiFi                          Infra  60    260 Mbit/s  50      ▂▄__  WPA2 802.1X
+        0A:09:B4:82:84:64  KT GiGA WiFi                     Infra  60    260 Mbit/s  50      ▂▄__  WPA2 802.1X
+        06:09:B4:82:84:64  KT WiFi                          Infra  60    260 Mbit/s  49      ▂▄__  --
+        16:09:B4:82:84:64  Public WiFi Secure               Infra  60    260 Mbit/s  47      ▂▄__  WPA2 802.1X
+        70:5D:CC:83:4C:CE  그룹토의실-5G-2                  Infra  36    270 Mbit/s  45      ▂▄__  WPA2
+        64:E5:99:D1:08:3E  office                           Infra  11    270 Mbit/s  44      ▂▄__  --
+        4A:9E:BD:55:52:D0  DIRECT-D0-HP OfficeJet Pro 7740  Infra  6     65 Mbit/s   42      ▂▄__  WPA2
+        16:09:B4:82:84:54  Public WiFi Secure               Infra  116   260 Mbit/s  20      ▂___  WPA2 802.1X
+admin@rp4-nwk2:~$ sudo nmcli device wifi connect "unreal5G" password "iotiotiot"
+Device 'wlan0' successfully activated with '14f96b41-98c8-448d-9bb8-bc476b1f4f3e'.
+```
+
+### WIFI 접속
+
+   * 아래 코드를 이용하여 wifi에 접속할 수있음
+```
+sudo nmcli device wifi connect [와이파이 이름] password [와이파이 비밀번호]
+```
 
 <img width="993" height="851" alt="086" src="https://github.com/user-attachments/assets/ee8c50be-2384-43ee-b16c-48bf48f731ae" />
 
