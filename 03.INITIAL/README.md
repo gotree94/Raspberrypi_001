@@ -177,6 +177,8 @@ ping -4 rp4-nwkim.local
 python ip_scanner3.py
 ```
 
+<img width="993" height="851" alt="086" src="https://github.com/user-attachments/assets/ee8c50be-2384-43ee-b16c-48bf48f731ae" />
+
 
 ## 문제2 : 터미널에서 wifi 설정
 
@@ -228,8 +230,6 @@ Device 'wlan0' successfully activated with '14f96b41-98c8-448d-9bb8-bc476b1f4f3e
 ```
 sudo nmcli device wifi connect [와이파이 이름] password [와이파이 비밀번호]
 ```
-
-<img width="993" height="851" alt="086" src="https://github.com/user-attachments/assets/ee8c50be-2384-43ee-b16c-48bf48f731ae" />
 
 
 
